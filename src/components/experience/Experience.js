@@ -28,7 +28,7 @@ const Experience = () => {
             <p style={{ textAlign: 'center' }}>
               Further in-depth experience pre 2020 can be found on my{' '}
               <a
-                href="https://www.linkedin.com/in/mjigalin/"
+                href="https://www.linkedin.com/in/pawan-arora-aba4a8164/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{

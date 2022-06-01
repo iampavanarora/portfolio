@@ -2,13 +2,13 @@
   "featured_projects": [
     {
       "id": 0,
-      "name": "Cactus",
-      "link": "https://www.cactuscan.com/",
-      "description": "🌵 A responsive multi-page website made with wordpress for ease of updating & blog functionality. Used jQuery for custom animations and extension integration.",
+      "name": "JobProgress",
+      "link": "https://www.jobprogress.com/",
+      "description": "🌵 A responsive multi-page website made with Angular",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
       "languages": [
-        { "name": "Jquery", "color": "rgb(241, 224, 90)" },
-        { "name": "Wordpress", "color": "rgb(100, 219, 255)" }
+        { "name": "Angular", "color": "rgb(241, 224, 90)" },
+        { "name": "React JS", "color": "rgb(100, 219, 255)" }
       ]
     },
     {

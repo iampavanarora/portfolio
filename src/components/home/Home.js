@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/matt.png'
+import profile from '../../images/pawan.jpg'
 import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
@@ -26,7 +26,7 @@ const Home = () => {
               onLoad={() => setImageLoaded(true)}
             />
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Matthew Jigalin</span>.{' '}
+              Hi, I'm <span className="name">Pawan Arora</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
                 👋
               </span>
@@ -48,17 +48,6 @@ const Home = () => {
                 }}
               />
             </h1>
-            <Bounce cascade>
-              <div className="links">
-                <a
-                  href="https://www.linkedin.com/in/mjigalin/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img src={linkedin} alt="Linkedin Logo" width="50px" />
-                </a>
-              </div>
-            </Bounce>
             <div className="scroll-down">
               <Link
                 activeClass="active"
