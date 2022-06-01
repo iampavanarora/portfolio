@@ -15,12 +15,14 @@ const Contact = () => {
           <a
             href="https://github.com/iampavanarora"
             target="_blank"
+						rel="noopener noreferrer"
           >
             <img src={github} alt="Github Logo" width="40px" />
           </a>
           <a
             href="https://www.linkedin.com/in/pawan-arora-aba4a8164/"
             target="_blank"
+						rel="noopener noreferrer"
           >
             <img src={linkedin} alt="Linkedin Logo" width="40px" />
           </a>
