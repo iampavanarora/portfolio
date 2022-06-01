@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import './Home.css'
 import Fade from 'react-reveal/Fade'
-import { Bounce } from 'react-reveal'
 import { Link } from 'react-scroll'
 import Particles from 'react-particles-js'
 import Typewriter from 'typewriter-effect'
@@ -9,7 +8,6 @@ import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/pawan.jpg'
-import linkedin from '../../images/social/linkedin.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
