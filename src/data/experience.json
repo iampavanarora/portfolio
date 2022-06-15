@@ -3,7 +3,7 @@
     {
       "id": 0,
       "link": "https://www.jobprogress.com/",
-      "company": "8secondz",
+      "company": "JobProgress",
       "title": "JobProgress",
       "dateFrom": "December 2018",
       "dateTo": "Present",
@@ -12,9 +12,25 @@
         "Led in app UI/UX"
       ],
       "stack": ["Flutter", "Ionic", "Angular", "React Native"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
-      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #C81B1B, #C81B1B)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
+    },
+		{
+      "id": 0,
+      "link": "https://www.jobprogress.com/",
+      "company": "LadherLogistic",
+      "title": "Ladher Logistic",
+      "dateFrom": "December 2021",
+      "dateTo": "March 2022",
+      "info": [
+        "Responsible for web team front-end development and design",
+        "Led in app UI/UX/BE"
+      ],
+      "stack": ["React JS", "Node JS"],
+      "logoheight": 65,
+      "colourPrimary": "linear-gradient(to bottom, #C81B1B, #C81B1B)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
     }
   ]
 }

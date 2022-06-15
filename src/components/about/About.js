@@ -23,7 +23,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on Front-End Mobile / Web
+              I'm a Senior Software Developer focusing on Front-End Mobile / Web
             </p>
             <p>
               <span role="img" aria-label="lightning">
