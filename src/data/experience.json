@@ -3,8 +3,8 @@
     {
       "id": 0,
       "link": "https://www.jobprogress.com/",
-      "company": "JobProgress",
-      "title": "JobProgress",
+      "company": "Leap",
+      "title": "Leap",
       "dateFrom": "December 2018",
       "dateTo": "Present",
       "info": [
@@ -13,7 +13,7 @@
       ],
       "stack": ["Flutter", "Ionic", "Angular", "React Native"],
       "logoheight": 90,
-      "colourPrimary": "linear-gradient(to bottom, #C81B1B, #C81B1B)",
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #39b175)",
       "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
     },
 		{
@@ -24,7 +24,7 @@
       "dateFrom": "December 2021",
       "dateTo": "March 2022",
       "info": [
-        "Responsible for web team front-end development and design",
+        "Responsible for all stacks(FE/UI/BE)",
         "Led in app UI/UX/BE"
       ],
       "stack": ["React JS", "Node JS"],
@@ -34,6 +34,22 @@
     },
 		{
       "id": 2,
+      "link": "https://apps.apple.com/ca/app/ladher-logistics/id1658700949",
+      "company": "LadherLogistic",
+      "title": "Ladher Logistic Mobile",
+      "dateFrom": "December 2021",
+      "dateTo": "March 2022",
+      "info": [
+        "Responsible for mobile team front-end development and design",
+        "Led in app UI/UX/BE"
+      ],
+      "stack": ["React JS", "Node JS"],
+      "logoheight": 65,
+      "colourPrimary": "linear-gradient(to bottom, #418BCA, #418BCA)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
+    },
+		{
+      "id": 3,
       "link": "https://paindeviepizzeria.orderingonline.com.au/",
       "company": "Pizzeria",
       "title": "Pizzeria",
@@ -45,7 +61,39 @@
       ],
       "stack": ["React JS", "Node JS"],
       "logoheight": 72,
+      "colourPrimary": "linear-gradient(to bottom, #C81B1B, #C81B1B)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
+    },
+		{
+      "id": 4,
+      "link": "https://apps.apple.com/us/app/jobprogress/id1063635242",
+      "company": "Leap",
+      "title": "Leap Mobile App",
+      "dateFrom": "December 2018",
+      "dateTo": "Present",
+      "info": [
+        "Responsible for mobile team front-end development and design",
+        "Led in app UI/UX"
+      ],
+      "stack": ["Flutter", "Ionic", "Angular", "React Native"],
+      "logoheight": 90,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #39b175)",
+      "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
+    },
+		{
+      "id": 5,
+      "link": "https://mgsvy.orbitaviation.in/",
+      "company": "MGSVY",
+      "title": "MGSVY",
+      "dateFrom": "Feburary 2022",
+      "dateTo": "June 2022",
+      "info": [
+        "Responsible for all stacks(FE/UI/BE)",
+        "Led in app UI/UX/BE"
+      ],
+      "stack": ["Flutter", "Ionic", "Angular", "React Native"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #51cbce, #51cbce)",
       "colourSecondary": "linear-gradient(to bottom, #fff, #fff)"
     }
   ]

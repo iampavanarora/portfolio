@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Home.css'
 import Fade from 'react-reveal/Fade'
 import { Link } from 'react-scroll'
@@ -7,22 +7,14 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/pawan.jpg'
 
 const Home = () => {
-  const [imageLoaded, setImageLoaded] = useState(false)
   return (
     <div className="home-wrapper">
       <div className="home">
         <Particles className="particles" params={config.particles} />
-        <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
+        <div className={`greeting`}>
           <Fade bottom distance="40px">
-            <img
-              className="profile"
-              alt="m.jigalin profile"
-              src={profile}
-              onLoad={() => setImageLoaded(true)}
-            />
             <h1 className="greeting-text">
               Hi, I'm <span className="name">Pawan Arora</span>.{' '}
               <span className="wave-emoji" role="img" aria-label="waving hand">
@@ -33,7 +25,6 @@ const Home = () => {
               <Typewriter
                 options={{
                   strings: [
-                    'I like to design things.',
                     'I love learning new tech.',
                     'I love meeting new people.',
                     'I create unique digital experiences.',
