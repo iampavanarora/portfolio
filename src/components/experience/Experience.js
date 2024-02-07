@@ -39,7 +39,20 @@ const Experience = () => {
               >
                 LinkedIn
               </a>
-              .
+              {' '}
+              or you can contact over my {' '}
+                <a
+                  href="mailto:iampavanarora@gmail.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    textDecoration: 'none',
+                    color: '#0be779',
+                    cursor: 'pointer',
+                  }}
+                >
+                  Email
+                </a>
             </p>
           </div>
         </Fade>
